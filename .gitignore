@@ -229,3 +229,5 @@ $RECYCLE.BIN/
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,vscode,visualstudiocode,node,windows,macos,git,yarn
+temp/*
+!temp/.gitkeep
